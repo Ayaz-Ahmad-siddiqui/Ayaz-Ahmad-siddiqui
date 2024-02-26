@@ -1,7 +1,7 @@
 ![Banner](https://github.com/Ayaz-Ahmad-siddiqui/Ayaz-Ahmad-siddiqui/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ayaz Ahmad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif" height={400} width={400} align="right"/>
+<img src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif" height='400' width='400' align="right"/>
 
 - 💬 Ask me about **React js, javascript, Html, Css**
 
